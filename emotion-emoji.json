@@ -9,7 +9,6 @@
     },
 
     "face-smiling": {
-
         "U+1F600": {
             "name": "grinning face",
             "happiness": "0.8",
@@ -109,6 +108,40 @@
             "worry": "0.0",
             "sadness": "0.0",
             "fear": "0.15",
+            "neutral": "0.0"
+        },
+
+        "U+1F923": {
+            "name": "rolling on the floor laughing",
+            "happiness": "0.4",
+            "joy": "0.6",
+            "love": "0.0",
+            "surprise": "0.0",
+            "anger": "0.0",
+            "disgust": "0.0",
+            "confusion": "0.0",
+            "boredom": "0,0",
+            "disappointment": "0.0",
+            "worry": "0.0",
+            "sadness": "0.0",
+            "fear": "0.0",
+            "neutral": "0.0"
+        },
+
+        "U+1F602": {
+            "name": "face with tears of joy",
+            "happiness": "0.4",
+            "joy": "0.6",
+            "love": "0.0",
+            "surprise": "0.0",
+            "anger": "0.0",
+            "disgust": "0.0",
+            "confusion": "0.0",
+            "boredom": "0,0",
+            "disappointment": "0.0",
+            "worry": "0.0",
+            "sadness": "0.0",
+            "fear": "0.0",
             "neutral": "0.0"
         }
     }
