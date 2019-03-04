@@ -1,17 +1,81 @@
 {
     "name": "emotion-emoji",
     "description": "Emotion Emoji is a package that allows you to add emotional values to emoji. Use this freely to make your apps emotive.",
-    "author": 
-    {
+    "author": {
         "name": "Dwayne Samuels",
         "company": "Samelogic - Feedback for Humans",
         "email": "dwayne@samelogic.com",
         "url": "https://www.samelogic.com"
     },
-    
-    
-    "class":{
 
+    "face-smiling": {
+
+        "U+1F600": {
+            "name": "grinning face",
+            "happiness": "0.8",
+            "joy": "0.2",
+            "love": "0.0",
+            "surprise": "0.0",
+            "anger": "0.0",
+            "disgust": "0.0",
+            "confusion": "0.0",
+            "boredom": "0,0",
+            "disappointment": "0.0",
+            "worry": "0.0",
+            "sadness": "0.0",
+            "fear": "0.0",
+            "neutral": "0.0"
+        },
+
+        "U+1F603": {
+            "name": "smiling face with open mouth",
+            "happiness": "0.8",
+            "joy": "0.2",
+            "love": "0.0",
+            "surprise": "0.0",
+            "anger": "0.0",
+            "disgust": "0.0",
+            "confusion": "0.0",
+            "boredom": "0,0",
+            "disappointment": "0.0",
+            "worry": "0.0",
+            "sadness": "0.0",
+            "fear": "0.0",
+            "neutral": "0.0"
+        },
+
+        "U+1F604": {
+            "name": "smiling face with open mouth and smiling eyes",
+            "happiness": "0.8",
+            "joy": "0.2",
+            "love": "0.0",
+            "surprise": "0.0",
+            "anger": "0.0",
+            "disgust": "0.0",
+            "confusion": "0.0",
+            "boredom": "0,0",
+            "disappointment": "0.0",
+            "worry": "0.0",
+            "sadness": "0.0",
+            "fear": "0.0",
+            "neutral": "0.0"
+        },
+
+        "U+1F601": {
+            "name": "grinning face with smiling eyes",
+            "happiness": "0.7",
+            "joy": "0.2",
+            "love": "0.0",
+            "surprise": "0.0",
+            "anger": "0.1",
+            "disgust": "0.0",
+            "confusion": "0.1",
+            "boredom": "0,0",
+            "disappointment": "0.1",
+            "worry": "0.0",
+            "sadness": "0.0",
+            "fear": "0.0",
+            "neutral": "0.0"
+        }
     }
 }
-   
