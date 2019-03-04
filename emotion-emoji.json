@@ -76,6 +76,23 @@
             "sadness": "0.0",
             "fear": "0.0",
             "neutral": "0.0"
+        },
+
+        "U+1F606": {
+            "name": "smiling face with open mouth and tightly-closed eyes",
+            "happiness": "0.5",
+            "joy": "0.5",
+            "love": "0.0",
+            "surprise": "0.0",
+            "anger": "0.1",
+            "disgust": "0.0",
+            "confusion": "0.0",
+            "boredom": "0,0",
+            "disappointment": "0.0",
+            "worry": "0.0",
+            "sadness": "0.0",
+            "fear": "0.0",
+            "neutral": "0.0"
         }
     }
 }
