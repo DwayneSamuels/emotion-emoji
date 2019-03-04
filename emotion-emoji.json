@@ -143,6 +143,91 @@
             "sadness": "0.0",
             "fear": "0.0",
             "neutral": "0.0"
+        },
+
+        "U+1F642": {
+            "name": "slightly smiling face",
+            "happiness": "0.4",
+            "joy": "0.0",
+            "love": "0.0",
+            "surprise": "0.0",
+            "anger": "0.0",
+            "disgust": "0.1",
+            "confusion": "0.0",
+            "boredom": "0,0",
+            "disappointment": "0.0",
+            "worry": "0.0",
+            "sadness": "0.0",
+            "fear": "0.0",
+            "neutral": "0.5"
+        },
+
+        "U+1F643": {
+            "name": "upside-down face",
+            "happiness": "0.4",
+            "joy": "0.0",
+            "love": "0.0",
+            "surprise": "0.0",
+            "anger": "0.0",
+            "disgust": "0.1",
+            "confusion": "0.0",
+            "boredom": "0,0",
+            "disappointment": "0.0",
+            "worry": "0.0",
+            "sadness": "0.0",
+            "fear": "0.0",
+            "neutral": "0.5"
+        },
+
+        "U+1F609": {
+            "name": "winking face",
+            "happiness": "0.4",
+            "joy": "0.3",
+            "love": "0.1",
+            "surprise": "0.2",
+            "anger": "0.0",
+            "disgust": "0.0",
+            "confusion": "0.0",
+            "boredom": "0,0",
+            "disappointment": "0.0",
+            "worry": "0.0",
+            "sadness": "0.0",
+            "fear": "0.0",
+            "neutral": "0.0"
+        },
+
+        "U+1F60A": {
+            "name": "smiling face with smiling eyes",
+            "happiness": "0.85",
+            "joy": "0.15",
+            "love": "0.0",
+            "surprise": "0.0",
+            "anger": "0.0",
+            "disgust": "0.0",
+            "confusion": "0.0",
+            "boredom": "0,0",
+            "disappointment": "0.0",
+            "worry": "0.0",
+            "sadness": "0.0",
+            "fear": "0.0",
+            "neutral": "0.0"
+        },
+
+        "U+1F607": {
+            "name": "smiling face with halo",
+            "happiness": "0.7",
+            "joy": "0.2",
+            "love": "0.1",
+            "surprise": "0.0",
+            "anger": "0.0",
+            "disgust": "0.0",
+            "confusion": "0.0",
+            "boredom": "0,0",
+            "disappointment": "0.0",
+            "worry": "0.0",
+            "sadness": "0.0",
+            "fear": "0.0",
+            "neutral": "0.0"
         }
     }
 }
