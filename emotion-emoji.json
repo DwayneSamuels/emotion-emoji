@@ -93,6 +93,23 @@
             "sadness": "0.0",
             "fear": "0.0",
             "neutral": "0.0"
+        },
+
+        "U+1F605": {
+            "name": "smiling face with open mouth and cold sweat",
+            "happiness": "0.7",
+            "joy": "0.0",
+            "love": "0.0",
+            "surprise": "0.0",
+            "anger": "0.0",
+            "disgust": "0.0",
+            "confusion": "0.15",
+            "boredom": "0,0",
+            "disappointment": "0.0",
+            "worry": "0.0",
+            "sadness": "0.0",
+            "fear": "0.15",
+            "neutral": "0.0"
         }
     }
 }
