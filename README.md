@@ -16,7 +16,7 @@ Let's get straight to how to classifying your emojis and getting their emotional
         "anger": "0.0",
         "disgust": "0.0",
         "confusion": "0.0",
-        "boredom": "0,0",
+        "boredom": "0.0",
         "disappointment": "0.0",
         "worry": "0.0",
         "sadness": "0.0",
