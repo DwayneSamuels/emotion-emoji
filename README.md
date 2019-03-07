@@ -29,6 +29,7 @@ Let's get straight to how to classifying your emojis and getting their emotional
 
 ## Emoji Classification
 ```name``` This is the normal name of the emoji which people generally know it as
+
 ```category``` The category tells what kind of emoji it is
 
 ## Emoji Emotions
