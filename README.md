@@ -24,6 +24,11 @@ Let's get straight to how to classifying your emojis and getting their emotional
         "neutral": "0.0"
     }
 ```
-## Emoji Types
-```U+1F600``` This is the unicode name of the emoji
-```name``` The recognizable name of the 
+## Unicode Value
+```U+1F600``` This is the unicode name of the emoji. This is the main way the emotional values and classification of the emoji is referenced. We'll be adding the unicode values for all emojis soon.
+
+## Emoji Classification
+```name``` This is the normal name of the emoji which people generally know it as
+```category``` The category tells what kind of emoji it is
+
+## Emoji Emotions
