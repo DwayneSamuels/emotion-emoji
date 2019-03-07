@@ -30,8 +30,33 @@ Let's get straight to how to classifying your emojis and getting their emotional
 ## Emoji Classification
 ```name``` This is the normal name of the emoji which people generally know it as
 
-```category``` The category tells what kind of emoji it is
+```category``` Tells which category the emoji falls under
 
 ## Emoji Emotions
-The emotions 
-```happiness``` 
+Every emoji has emotional value and we extrapolate the following emotions from each using percentages to show how much of a particular emotion each has. All emotions from each emoji at up to a total of 100% (or 1).
+
+```happiness``` Level of happiness
+
+```joy``` Level of Exuberance or Excitement
+
+```love``` Level of empathy/love
+
+```surprise``` Level of Surprise
+
+```anger``` Level of Anger
+
+```disgust``` Level of Disgust
+
+```confusion``` Level of Confusion
+
+```boredom``` Level of Boredom
+
+```disappointment``` Level of Disappointment
+
+```worry``` Level of Worry
+
+```sadness```Level of Sadness
+
+```fear``` Level of Fear
+
+```neutrality``` Level of Neutrality
