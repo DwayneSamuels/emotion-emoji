@@ -1,5 +1,5 @@
-# emotion-emoji
-Emotion Emoji is a package that allows you to add emotional values to emoji. Use this freely to make your apps emotive!
+#Emotion-Emoji
+Emotion Emoji is a JSON package made by Samelogic that allows you to add emotional values to emoji. Use this freely to make your apps emotive!
 
 Let's get straight to how to classifying your emojis and getting their emotional values.
 
