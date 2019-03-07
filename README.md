@@ -1,9 +1,10 @@
-#Emotion-Emoji
+# Emotion-Emoji
 Emotion Emoji is a JSON package made by Samelogic that allows you to add emotional values to emoji. Use this freely to make your apps emotive!
 
 Let's get straight to how to classifying your emojis and getting their emotional values.
 
-This is how the JSON is structured
+
+## Structure
 ```
 "U+1F600": {
         "name": "grinning face",
@@ -23,6 +24,6 @@ This is how the JSON is structured
         "neutral": "0.0"
     }
 ```
-**Emoji Types**
+## Emoji Types
 ```U+1F600``` This is the unicode name of the emoji
 ```name``` The recognizable name of the 
