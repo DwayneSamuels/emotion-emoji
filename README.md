@@ -62,7 +62,7 @@ Every emoji has emotional value and we extrapolate the following emotions from e
 ```neutrality``` Level of Neutrality
 
 ## Emoji & Unicode Values
-### Face Smiling
+### Category: Face Smiling
 | Emoji  | Unicode Value | Name |
 | ------------- | ------------- | ------------- |
 | 😀  | U+1F600  | grinning face |
