@@ -1,6 +1,6 @@
 {
     "name": "emotion-emoji",
-    "version": "1.0.9",
+    "version": "1.1.2",
     "description": "Emotion Emoji is a package that allows you to add emotional values to emoji. Use this freely to make your apps emotive.",
     "main": "emotion-emoji.json",
     "scripts": {
@@ -18,8 +18,15 @@
     "homepage": "https://github.com/dwaynesamuels/emotion-emoji#readme",
     "keywords": [
       "emoji",
-      "emotions",
-      "emotional analysis"
+      "emotion",
+      "emotional analysis",
+      "unicode",
+      "word",
+      "sentiment",
+      "analysis",
+      "mining",
+      "text",
+      "microblogs"
     ]
     
   }

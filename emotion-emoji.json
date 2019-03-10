@@ -231,5 +231,113 @@
         "sadness": "0.0",
         "fear": "0.0",
         "neutral": "0.0"
+    },
+
+    "U+1F60D": {
+        "name": "smiling face with heart-eyes",
+        "category": "face_affection",
+        "happiness": "0.25",
+        "joy": "0.25",
+        "love": "0.5",
+        "surprise": "0.0",
+        "anger": "0.0",
+        "disgust": "0.0",
+        "confusion": "0.0",
+        "boredom": "0,0",
+        "disappointment": "0.0",
+        "worry": "0.0",
+        "sadness": "0.0",
+        "fear": "0.0",
+        "neutral": "0.0"
+    },
+
+    "U+1F618": {
+        "name": "face blowing a kiss",
+        "category": "face_affection",
+        "happiness": "0.50",
+        "joy": "0.25",
+        "love": "0.25",
+        "surprise": "0.0",
+        "anger": "0.0",
+        "disgust": "0.0",
+        "confusion": "0.0",
+        "boredom": "0,0",
+        "disappointment": "0.0",
+        "worry": "0.0",
+        "sadness": "0.0",
+        "fear": "0.0",
+        "neutral": "0.0"
+    },
+
+    "U+1F617": {
+        "name": "kissing face",
+        "category": "face_affection",
+        "happiness": "0.60",
+        "joy": "0.10",
+        "love": "0.30",
+        "surprise": "0.0",
+        "anger": "0.0",
+        "disgust": "0.0",
+        "confusion": "0.0",
+        "boredom": "0,0",
+        "disappointment": "0.0",
+        "worry": "0.0",
+        "sadness": "0.0",
+        "fear": "0.0",
+        "neutral": "0.0"
+    },
+
+    "U+263A": {
+        "name": "smiling face",
+        "category": "face_affection",
+        "happiness": "0.70",
+        "joy": "0.15",
+        "love": "0.15",
+        "surprise": "0.0",
+        "anger": "0.0",
+        "disgust": "0.0",
+        "confusion": "0.0",
+        "boredom": "0,0",
+        "disappointment": "0.0",
+        "worry": "0.0",
+        "sadness": "0.0",
+        "fear": "0.0",
+        "neutral": "0.0"
+    },
+
+    "U+1F61A": {
+        "name": "kissing face with closed eyes",
+        "category": "face_affection",
+        "happiness": "0.40",
+        "joy": "0.20",
+        "love": "0.40",
+        "surprise": "0.0",
+        "anger": "0.0",
+        "disgust": "0.0",
+        "confusion": "0.0",
+        "boredom": "0,0",
+        "disappointment": "0.0",
+        "worry": "0.0",
+        "sadness": "0.0",
+        "fear": "0.0",
+        "neutral": "0.0"
+    },
+
+    "U+1F619": {
+        "name": "kissing face with smiling eyes",
+        "category": "face_affection",
+        "happiness": "0.60",
+        "joy": "0.10",
+        "love": "0.30",
+        "surprise": "0.0",
+        "anger": "0.0",
+        "disgust": "0.0",
+        "confusion": "0.0",
+        "boredom": "0,0",
+        "disappointment": "0.0",
+        "worry": "0.0",
+        "sadness": "0.0",
+        "fear": "0.0",
+        "neutral": "0.0"
     }
 }
