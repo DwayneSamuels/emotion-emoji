@@ -78,3 +78,13 @@ Every emoji has emotional value and we extrapolate the following emotions from e
 | 😉  | U+1F609  | winking face  |
 | 😊  | U+1F60A  | smiling face with smiling eyes  |
 | 😇  | U+1F607  | smiling face with halo  |
+
+### Category: Face Affection
+| Emoji  | Unicode Value | Name |
+| ------------- | ------------- | ------------- |
+| 😍  | U+1F60D  | smiling face with heart-eyes |
+| 😘  | U+1F618  | face blowing a kiss  |
+| 😗  | U+1F617  | kissing face  |
+| Display Error  | U+263A  | smiling face  |
+| 😚  | U+1F61A  | kissing face with closed eyes  |
+| 😙  | U+1F619  | kissing face with smiling eyes  |
