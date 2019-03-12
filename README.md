@@ -88,3 +88,12 @@ Every emoji has emotional value and we extrapolate the following emotions from e
 | Display Error  | U+263A  | smiling face  |
 | 😚  | U+1F61A  | kissing face with closed eyes  |
 | 😙  | U+1F619  | kissing face with smiling eyes  |
+
+### Category: Face Tongue
+| Emoji  | Unicode Value | Name |
+| ------------- | ------------- | ------------- |
+| 😋  | U+1F60B  | face savoring food  |
+| 😛  | U+1F61B  | winking face with tongue  |
+| 😝  | U+1F61D  | squinting face with tongue  |
+| 😜  | U+1F61C  | winking face with tongue  |
+| 🤑  | U+1F911  | money-mouth face  |
