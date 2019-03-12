@@ -339,5 +339,95 @@
         "sadness": "0.0",
         "fear": "0.0",
         "neutral": "0.0"
+    },
+
+    "U+1F60B": {
+        "name": "face savoring food",
+        "category": "face_tongue",
+        "happiness": "0.70",
+        "joy": "0.30",
+        "love": "0.00",
+        "surprise": "0.0",
+        "anger": "0.0",
+        "disgust": "0.0",
+        "confusion": "0.0",
+        "boredom": "0,0",
+        "disappointment": "0.0",
+        "worry": "0.0",
+        "sadness": "0.0",
+        "fear": "0.0",
+        "neutral": "0.0"
+    },
+
+    "U+1F61B": {
+        "name": "face with tongue",
+        "category": "face_tongue",
+        "happiness": "0.70",
+        "joy": "0.30",
+        "love": "0.00",
+        "surprise": "0.0",
+        "anger": "0.0",
+        "disgust": "0.0",
+        "confusion": "0.0",
+        "boredom": "0,0",
+        "disappointment": "0.0",
+        "worry": "0.0",
+        "sadness": "0.0",
+        "fear": "0.0",
+        "neutral": "0.0"
+    },
+
+    "U+1F61D": {
+        "name": "squinting face with tongue",
+        "category": "face_tongue",
+        "happiness": "0.60",
+        "joy": "0.40",
+        "love": "0.00",
+        "surprise": "0.0",
+        "anger": "0.0",
+        "disgust": "0.0",
+        "confusion": "0.0",
+        "boredom": "0,0",
+        "disappointment": "0.0",
+        "worry": "0.0",
+        "sadness": "0.0",
+        "fear": "0.0",
+        "neutral": "0.0"
+    },
+
+    "U+1F61C": {
+        "name": "winking face with tongue",
+        "category": "face_tongue",
+        "happiness": "0.60",
+        "joy": "0.40",
+        "love": "0.00",
+        "surprise": "0.0",
+        "anger": "0.0",
+        "disgust": "0.0",
+        "confusion": "0.0",
+        "boredom": "0,0",
+        "disappointment": "0.0",
+        "worry": "0.0",
+        "sadness": "0.0",
+        "fear": "0.0",
+        "neutral": "0.0"
+    },
+
+    "U+1F911": {
+        "name": "money-mouth face",
+        "category": "face_tongue",
+        "happiness": "0.50",
+        "joy": "0.50",
+        "love": "0.00",
+        "surprise": "0.0",
+        "anger": "0.0",
+        "disgust": "0.0",
+        "confusion": "0.0",
+        "boredom": "0,0",
+        "disappointment": "0.0",
+        "worry": "0.0",
+        "sadness": "0.0",
+        "fear": "0.0",
+        "neutral": "0.0"
     }
 }
