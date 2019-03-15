@@ -97,3 +97,11 @@ Every emoji has emotional value and we extrapolate the following emotions from e
 | 😝  | U+1F61D  | squinting face with tongue  |
 | 😜  | U+1F61C  | winking face with tongue  |
 | 🤑  | U+1F911  | money-mouth face  |
+
+### Category: Face Tongue
+| Emoji  | Unicode Value | Name |
+| ------------- | ------------- | ------------- |
+| 🤗  | U+1F917  | hugging face  |
+| 🤭  | U+1F92D  | face with hand over mouth  |
+| 🤫  | U+1F92B  | shushing face  |
+| 🤔  | U+1F914  | thinking face  |
