@@ -101,7 +101,13 @@ Every emoji has emotional value and we extrapolate the following emotions from e
 ### Category: Face Hand
 | Emoji  | Unicode Value | Name |
 | ------------- | ------------- | ------------- |
-| 🤗  | U+1F917  | hugging face  |
-| 🤭  | U+1F92D  | face with hand over mouth  |
-| 🤫  | U+1F92B  | shushing face  |
-| 🤔  | U+1F914  | thinking face  |
+| 🤐  | U+1F910  | zipper-mouth face  |
+| 🤨  | U+1F928  | face with raised eyebrow  |
+| 😐  | U+1F610  | neutral face  |
+| 😑  | U+1F611  | expressionless face  |
+| 😶  | U+1F636  | face without mouth  |
+| 😏  | U+1F60F  | smirking face  |
+| 😒  | U+1F612  | unamused face  |
+| 🙄  | U+1F644  | face with rolling eyes  |
+| 😬  | U+1F62C  | grimacing face  |
+| 🤥  | U+1F925  | lying face  |
