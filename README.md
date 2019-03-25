@@ -119,3 +119,12 @@ Every emoji has emotional value and we extrapolate the following emotions from e
 | 🙄  | U+1F644  | face with rolling eyes  |
 | 😬  | U+1F62C  | grimacing face  |
 | 🤥  | U+1F925  | lying face  |
+
+### Category: Face Sleepy
+| Emoji  | Unicode Value | Name |
+| ------------- | ------------- | ------------- |
+| 😌  | U+1F60C  | relieved face  |
+| 😔  | U+1F614  | pensive face  |
+| 😪  | U+1F62A  | sleepy face  |
+| 🤤  | U+1F924  | drooling face  |
+| 😴  | U+1F634  | sleeping face  |
