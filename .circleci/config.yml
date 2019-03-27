@@ -5,7 +5,7 @@
 version: 2
 
 defaults: &defaults
-  working_directory: ~/repo
+  working_directory: ~/emotion-emoji-git
   docker:
     - image: circleci/node:8.9.1
 
