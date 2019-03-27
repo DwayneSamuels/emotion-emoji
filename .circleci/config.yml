@@ -4,7 +4,7 @@ references:
   container_config: &container_config
     docker:
       - image: circleci/node:latest
-    working_directory: ~/emotion-emoji
+    working_directory: ~/emotion-emoji-git
 
 jobs:
   test:
@@ -29,14 +29,14 @@ jobs:
           key: v1-dependencies-{{ checksum "package.json" }}
 
       - persist_to_workspace:
-          root: ~/emotion-emoji
+          root: ~/emotion-emoji-git
           paths: .
 
  deploy:
     <<: *defaults
     steps:
       - attach_workspace:
-          at: ~/emotion-emoji
+          at: ~/emotion-emoji-git
       - run:
           name: samelogic
           command: echo "//registry.npmjs.org/:_authToken=$npm_TOKEN" > ~/.npmrc
