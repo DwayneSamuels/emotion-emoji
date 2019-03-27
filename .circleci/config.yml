@@ -32,7 +32,7 @@ jobs:
           root: ~/emotion-emoji
           paths: .
 
-  deploy:
+deploy:
     <<: *defaults
     steps:
       - attach_workspace:
