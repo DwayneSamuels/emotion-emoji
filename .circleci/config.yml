@@ -5,7 +5,7 @@
 version: 2
 
 defaults: &defaults
-  working_directory: ~/emotion-emoji-git
+  working_directory: ~/emotion-emoji
   docker:
     - image: circleci/node:8.9.1
 
@@ -32,7 +32,7 @@ jobs:
           key: v1-dependencies-{{ checksum "package.json" }}
 
       - persist_to_workspace:
-          root: ~/emotion-emoji-git
+          root: ~/emotion-emoji
           paths: .
   deploy:
     <<: *defaults
