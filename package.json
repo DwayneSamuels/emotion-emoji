@@ -3,9 +3,6 @@
     "version": "1.1.9",
     "description": "Emotion Emoji is a package that allows you to add emotional values to emoji. Use this freely to make your apps emotive.",
     "main": "emotion-emoji.json",
-    "scripts": {
-      "test": "mocha"
-    },
     "repository": {
       "type": "git",
       "url": "git+https://github.com/dwaynesamuels/emotion-emoji.git"
