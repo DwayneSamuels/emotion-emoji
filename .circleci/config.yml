@@ -32,14 +32,14 @@ jobs:
           root: ~/emotion-emoji
           paths: .
 
-deploy:
+ deploy:
     <<: *defaults
     steps:
       - attach_workspace:
           at: ~/emotion-emoji
       - run:
           name: samelogic
-          command: echo "//registry.npmjs.org/:_authToken=$npm_TOKEN" > ~/repo/.npmrc
-      - run:
+          command: echo "//registry.npmjs.org/:_authToken=$npm_TOKEN" > ~/.npmrc
+          - run:
           name: Publish package
           command: npm publish
