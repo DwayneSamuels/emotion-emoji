@@ -32,13 +32,13 @@ jobs:
           key: v1-dependencies-{{ checksum "package.json" }}
 
       - persist_to_workspace:
-          root: ~/repo
+          root: ~/emotion-emoji-git
           paths: .
   deploy:
     <<: *defaults
     steps:
       - attach_workspace:
-          at: ~/repo
+          at: ~/emotion-emoji-git
       - run:
           name: Authenticate with registry
           command: echo "//registry.npmjs.org/:_authToken=$npm_TOKEN" > ~/.npmrc
