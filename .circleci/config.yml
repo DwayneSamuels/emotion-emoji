@@ -33,7 +33,7 @@ jobs:
           paths: .
 
  deploy:
-    <<: *defaults
+    <<: *container_config
     steps:
       - attach_workspace:
           at: ~/emotion-emoji-git
