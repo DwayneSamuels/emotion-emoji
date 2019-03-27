@@ -38,7 +38,7 @@ jobs:
     <<: *defaults
     steps:
       - attach_workspace:
-          at: ~/emotion-emoji-git
+          at: ~/emotion-emoji
       - run:
           name: Authenticate with registry
           command: echo "//registry.npmjs.org/:_authToken=$npm_TOKEN" > ~/.npmrc
