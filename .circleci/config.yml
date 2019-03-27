@@ -32,7 +32,7 @@ jobs:
           key: v1-dependencies-{{ checksum "package.json" }}
 
       - persist_to_workspace:
-          root: ~/emotion-emoji
+          root: ~/emotion-emoji-git
           paths: .
   deploy:
     <<: *defaults
