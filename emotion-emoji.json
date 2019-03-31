@@ -72,7 +72,7 @@
     },
 
     "U+1F606": {
-        "name": "smiling face with open mouth and tightly-closed eyes",
+        "name": "smiling face with open mouth and tightly_closed eyes",
         "category": "face_smiling",
         "happiness": "0.5",
         "joy": "0.5",
@@ -162,7 +162,7 @@
     },
 
     "U+1F643": {
-        "name": "upside-down face",
+        "name": "upside_down face",
         "category": "face_smiling",
         "happiness": "0.4",
         "joy": "0.0",
@@ -234,7 +234,7 @@
     },
 
     "U+1F60D": {
-        "name": "smiling face with heart-eyes",
+        "name": "smiling face with heart_eyes",
         "category": "face_affection",
         "happiness": "0.25",
         "joy": "0.25",
@@ -414,7 +414,7 @@
     },
 
     "U+1F911": {
-        "name": "money-mouth face",
+        "name": "money_mouth face",
         "category": "face_tongue",
         "happiness": "0.50",
         "joy": "0.50",
@@ -433,7 +433,7 @@
 
     "U+1F917": {
         "name": "hugging face",
-        "category": "face-hand",
+        "category": "face_hand",
         "happiness": "0.25",
         "joy": "0.25",
         "love": "0.50",
@@ -451,7 +451,7 @@
 
     "U+1F92D": {
         "name": "face with hand over mouth",
-        "category": "face-hand",
+        "category": "face_hand",
         "happiness": "0.25",
         "joy": "0.50",
         "love": "0.25",
@@ -469,7 +469,7 @@
 
     "U+1F92B": {
         "name": "shushing face",
-        "category": "face-hand",
+        "category": "face_hand",
         "happiness": "0.0",
         "joy": "0.0",
         "love": "0.0",
@@ -487,7 +487,7 @@
 
     "U+1F914": {
         "name": "thinking face",
-        "category": "face-hand",
+        "category": "face_hand",
         "happiness": "0.0",
         "joy": "0.0",
         "love": "0.0",
@@ -504,8 +504,8 @@
     },
 
     "U+1F910": {
-        "name": "zipper-mouth face",
-        "category": "face-neutral-skeptical",
+        "name": "zipper_mouth face",
+        "category": "face_neutral_skeptical",
         "happiness": "0.0",
         "joy": "0.0",
         "love": "0.0",
@@ -523,7 +523,7 @@
 
     "U+1F928": {
         "name": "face with raised eyebrow",
-        "category": "face-neutral-skeptical",
+        "category": "face_neutral_skeptical",
         "happiness": "0.0",
         "joy": "0.0",
         "love": "0.0",
@@ -541,7 +541,7 @@
 
     "U+1F610": {
         "name": "neutral face",
-        "category": "face-neutral-skeptical",
+        "category": "face_neutral_skeptical",
         "happiness": "0.0",
         "joy": "0.0",
         "love": "0.0",
@@ -559,7 +559,7 @@
 
     "U+1F611": {
         "name": "expressionless face",
-        "category": "face-neutral-skeptical",
+        "category": "face_neutral_skeptical",
         "happiness": "0.0",
         "joy": "0.0",
         "love": "0.0",
@@ -577,7 +577,7 @@
 
     "U+1F636": {
         "name": "face without mouth",
-        "category": "face-neutral-skeptical",
+        "category": "face_neutral_skeptical",
         "happiness": "0.0",
         "joy": "0.0",
         "love": "0.0",
@@ -595,7 +595,7 @@
 
     "U+1F60F": {
         "name": "smirking face",
-        "category": "face-neutral-skeptical",
+        "category": "face_neutral_skeptical",
         "happiness": "0.10",
         "joy": "0.10",
         "love": "0.30",
@@ -613,7 +613,7 @@
 
     "U+1F612": {
         "name": "unamused face",
-        "category": "face-neutral-skeptical",
+        "category": "face_neutral_skeptical",
         "happiness": "0.0",
         "joy": "0.0",
         "love": "0.0",
@@ -631,7 +631,7 @@
 
     "U+1F644": {
         "name": "face with rolling eyes",
-        "category": "face-neutral-skeptical",
+        "category": "face_neutral_skeptical",
         "happiness": "0.0",
         "joy": "0.0",
         "love": "0.0",
@@ -649,7 +649,7 @@
 
     "U+1F62C": {
         "name": "grimacing face",
-        "category": "face-neutral-skeptical",
+        "category": "face_neutral_skeptical",
         "happiness": "0.0",
         "joy": "0.0",
         "love": "0.0",
@@ -667,7 +667,7 @@
 
     "U+1F925": {
         "name": "lying face",
-        "category": "face-neutral-skeptical",
+        "category": "face_neutral_skeptical",
         "happiness": "0.0",
         "joy": "0.0",
         "love": "0.0",
@@ -684,7 +684,7 @@
     },
     "U+1F60C": {
         "name": "relieved face",
-        "category": "face-sleepy",
+        "category": "face_sleepy",
         "happiness": "0.60",
         "joy": "0.20",
         "love": "0.0",
@@ -702,7 +702,7 @@
 
     "U+1F614": {
         "name": "pensive face",
-        "category": "face-sleepy",
+        "category": "face_sleepy",
         "happiness": "0.0",
         "joy": "0.0",
         "love": "0.0",
@@ -720,7 +720,7 @@
 
     "U+1F62A": {
         "name": "sleepy face",
-        "category": "face-sleepy",
+        "category": "face_sleepy",
         "happiness": "0.0",
         "joy": "0.0",
         "love": "0.0",
@@ -738,7 +738,7 @@
 
     "U+1F924": {
         "name": "drooling face",
-        "category": "face-sleepy",
+        "category": "face_sleepy",
         "happiness": "0.20",
         "joy": "0.50",
         "love": "0.20",
@@ -756,7 +756,7 @@
 
     "U+1F634": {
         "name": "sleeping face",
-        "category": "face-sleepy",
+        "category": "face_sleepy",
         "happiness": "0.0",
         "joy": "0.0",
         "love": "0.0",
@@ -774,7 +774,7 @@
 
     "U+1F637": {
         "name": "face with medical mask",
-        "category": "face-unwell",
+        "category": "face_unwell",
         "happiness": "0.0",
         "joy": "0.0",
         "love": "0.0",
@@ -792,7 +792,7 @@
 
     "U+1F912": {
         "name": "face with thermometer",
-        "category": "face-unwell",
+        "category": "face_unwell",
         "happiness": "0.0",
         "joy": "0.0",
         "love": "0.0",
@@ -809,8 +809,8 @@
     },
 
     "U+1F915": {
-        "name": "face with head-bandage",
-        "category": "face-unwell",
+        "name": "face with head_bandage",
+        "category": "face_unwell",
         "happiness": "0.0",
         "joy": "0.0",
         "love": "0.0",
@@ -828,7 +828,7 @@
 
     "U+1F922": {
         "name": "nauseated face",
-        "category": "face-unwell",
+        "category": "face_unwell",
         "happiness": "0.0",
         "joy": "0.0",
         "love": "0.0",
@@ -846,7 +846,7 @@
 
     "U+1F92E": {
         "name": "face vomiting",
-        "category": "face-unwell",
+        "category": "face_unwell",
         "happiness": "0.0",
         "joy": "0.0",
         "love": "0.0",
@@ -864,7 +864,7 @@
 
     "U+1F927": {
         "name": "sneezing face",
-        "category": "face-unwell",
+        "category": "face_unwell",
         "happiness": "0.0",
         "joy": "0.0",
         "love": "0.0",
@@ -882,7 +882,7 @@
 
     "U+1F975": {
         "name": "hot face",
-        "category": "face-unwell",
+        "category": "face_unwell",
         "happiness": "0.0",
         "joy": "0.0",
         "love": "0.0",
@@ -900,7 +900,7 @@
 
     "U+1F976": {
         "name": "cold face",
-        "category": "face-unwell",
+        "category": "face_unwell",
         "happiness": "0.0",
         "joy": "0.0",
         "love": "0.0",
@@ -918,7 +918,7 @@
 
     "U+1F974": {
         "name": "woozy face",
-        "category": "face-unwell",
+        "category": "face_unwell",
         "happiness": "0.10",
         "joy": "0.05",
         "love": "0.0",
@@ -936,7 +936,7 @@
 
     "U+1F635": {
         "name": "dizzy face",
-        "category": "face-unwell",
+        "category": "face_unwell",
         "happiness": "0.0",
         "joy": "0.0",
         "love": "0.0",
@@ -954,7 +954,7 @@
 
     "U+1F92F": {
         "name": "exploding head",
-        "category": "face-unwell",
+        "category": "face_unwell",
         "happiness": "0.0",
         "joy": "0.0",
         "love": "0.0",
