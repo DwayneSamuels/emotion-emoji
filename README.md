@@ -128,3 +128,18 @@ Every emoji has emotional value and we extrapolate the following emotions from e
 | 😪  | U+1F62A  | sleepy face  |
 | 🤤  | U+1F924  | drooling face  |
 | 😴  | U+1F634  | sleeping face  |
+
+### Category: Face Unwell
+| Emoji  | Unicode Value | Name |
+| ------------- | ------------- | ------------- |
+| 😷  | U+1F637  | face with medical mask  |
+| 🤒  | U+1F912  | face with thermometer  |
+| 🤕  | U+1F915  | face with head-bandage  |
+| 🤢  | U+1F922  | nauseated face  |
+| 🤮  | U+1F92E  | face vomiting  |
+| 🤧  | U+1F927  | sneezing face  |
+| Display Error  | U+1F975  | hot face  |
+| Display Error  | U+1F976  | cold face  |
+| Display Error  | U+1F974  | woozy face  |
+| 😵  | U+1F635  | dizzy face  |
+| 🤯  | U+1F92F  | exploding head  |
