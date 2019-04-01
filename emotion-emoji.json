@@ -968,5 +968,41 @@
         "sadness": "0.0",
         "fear": "0.0",
         "neutral": "0.0"
+    },
+
+    "U+1F920": {
+        "name": "cowboy hat face",
+        "category": "face_hat",
+        "happiness": "0.50",
+        "joy": "0.50",
+        "love": "0.0",
+        "surprise": "0.0",
+        "anger": "0.0",
+        "disgust": "0.0",
+        "confusion": "0.0",
+        "boredom": "0.0",
+        "disappointment": "0.0",
+        "worry": "0.0",
+        "sadness": "0.0",
+        "fear": "0.0",
+        "neutral": "0.0"
+    },
+
+    "U+1F973": {
+        "name": "partying face",
+        "category": "face_hat",
+        "happiness": "0.20",
+        "joy": "0.80",
+        "love": "0.0",
+        "surprise": "0.0",
+        "anger": "0.0",
+        "disgust": "0.0",
+        "confusion": "0.0",
+        "boredom": "0.0",
+        "disappointment": "0.0",
+        "worry": "0.0",
+        "sadness": "0.0",
+        "fear": "0.0",
+        "neutral": "0.0"
     }
 }
