@@ -143,3 +143,9 @@ Every emoji has emotional value and we extrapolate the following emotions from e
 | Display Error  | U+1F974  | woozy face  |
 | 😵  | U+1F635  | dizzy face  |
 | 🤯  | U+1F92F  | exploding head  |
+
+### Category: Face Hat
+| Emoji  | Unicode Value | Name |
+| ------------- | ------------- | ------------- |
+| 🤠  | U+1F920  | cowboy hat face  |
+| Display Error  | U+1F973  | partying face  |
