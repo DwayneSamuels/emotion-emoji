@@ -149,3 +149,10 @@ Every emoji has emotional value and we extrapolate the following emotions from e
 | ------------- | ------------- | ------------- |
 | 🤠  | U+1F920  | cowboy hat face  |
 | Display Error  | U+1F973  | partying face  |
+
+### Category: Face Glasses
+| Emoji  | Unicode Value | Name |
+| ------------- | ------------- | ------------- |
+| 😎  | U+1F60E  | smiling face with sunglasses  |
+| 🤓  | U+1F913  | nerd face  |
+| 🧐  | U+1F9D0  | face with monocle  |

@@ -1004,5 +1004,59 @@
         "sadness": "0.0",
         "fear": "0.0",
         "neutral": "0.0"
+    },
+
+    "U+1F60E": {
+        "name": "smiling face with sunglasses",
+        "category": "face_glasses",
+        "happiness": "0.50",
+        "joy": "0.10",
+        "love": "0.0",
+        "surprise": "0.0",
+        "anger": "0.0",
+        "disgust": "0.0",
+        "confusion": "0.0",
+        "boredom": "0.0",
+        "disappointment": "0.0",
+        "worry": "0.0",
+        "sadness": "0.0",
+        "fear": "0.0",
+        "neutral": "0.40"
+    },
+
+    "U+1F913": {
+        "name": "nerd face",
+        "category": "face_glasses",
+        "happiness": "0.50",
+        "joy": "0.10",
+        "love": "0.0",
+        "surprise": "0.0",
+        "anger": "0.0",
+        "disgust": "0.0",
+        "confusion": "0.0",
+        "boredom": "0.0",
+        "disappointment": "0.0",
+        "worry": "0.0",
+        "sadness": "0.0",
+        "fear": "0.0",
+        "neutral": "0.40"
+    },
+
+    "U+1F9D0": {
+        "name": "face with monocle",
+        "category": "face_glasses",
+        "happiness": "0.0",
+        "joy": "0.0",
+        "love": "0.0",
+        "surprise": "0.20",
+        "anger": "0.0",
+        "disgust": "0.0",
+        "confusion": "0.20",
+        "boredom": "0.0",
+        "disappointment": "0.0",
+        "worry": "0.40",
+        "sadness": "0.0",
+        "fear": "0.20",
+        "neutral": "0.0"
     }
 }
