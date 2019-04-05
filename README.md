@@ -156,3 +156,30 @@ Every emoji has emotional value and we extrapolate the following emotions from e
 | 😎  | U+1F60E  | smiling face with sunglasses  |
 | 🤓  | U+1F913  | nerd face  |
 | 🧐  | U+1F9D0  | face with monocle  |
+
+### Category: Face Concerned
+| Emoji  | Unicode Value | Name |
+| ------------- | ------------- | ------------- |
+| 😕  | U+1F616  | confused face  |
+| 😟  | U+1F61F  | worried face  |
+| 🙁  | U+1F642  | slightly frowning face  |
+| Display Error  | U+2640  | frowning face  |
+| 😮  | U+1F62E  | face with open mouth  |
+| 😯  | U+1F62F  | hushed face  |
+| 😲  | U+1F633  | astonished face  |
+| 😳  | U+1F634  | flushed face  |
+| Display Error  | U+1F97A  | pleading face  |
+| 😦  | U+1F627  | frowning face with open mouth  |
+| 😧  | U+1F628  | anguished face  |
+| 😨  | U+1F629  | fearful face  |
+| 😰  | U+1F631  | anxious face with sweat  |
+| 😥  | U+1F626  | sad but relieved face  |
+| 😢  | U+1F623  | crying face  |
+| 😭  | U+1F62D  | loudly crying face  |
+| 😱  | U+1F632  | face screaming in fear  |
+| 😖  | U+1F617  | confounded face  |
+| 😣  | U+1F624  | persevering face  |
+| 😞  | U+1F61E  | disappointed face  |
+| 😓  | U+1F614	 | downcast face with sweat  |
+| 😩  | U+1F630	 | weary face  |
+| 😫  | U+1F62B  | tired face  |
