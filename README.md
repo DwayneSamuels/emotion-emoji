@@ -183,3 +183,15 @@ Every emoji has emotional value and we extrapolate the following emotions from e
 | 😓  | U+1F614	 | downcast face with sweat  |
 | 😩  | U+1F630	 | weary face  |
 | 😫  | U+1F62B  | tired face  |
+
+### Category: Face Negative
+| Emoji  | Unicode Value | Name |
+| ------------- | ------------- | ------------- |
+| 😤  | U+1F624  | face with steam from nose  |
+| 😡  | U+1F621  | pouting face  |
+| 😠  | U+1F620  | angry face  |
+| 🤬  | U+1F92C  | face with symbols on mouth |
+| 😈  | U+1F608  | smiling face with horns  |
+| 👿  | U+1F47F  | angry face with horns  |
+| 💀  | U+1F480  | skull  |
+| Display Error  | U+2620  | skull and crossbones  |
