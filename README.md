@@ -195,3 +195,15 @@ Every emoji has emotional value and we extrapolate the following emotions from e
 | 👿  | U+1F47F  | angry face with horns  |
 | 💀  | U+1F480  | skull  |
 | Display Error  | U+2620  | skull and crossbones  |
+
+### Category: Face Costume
+| Emoji  | Unicode Value | Name |
+| ------------- | ------------- | ------------- |
+| 💩  | U+1F4A9  | pile of poo  |
+| 🤡  | U+1F921  | clown face  |
+| 👹  | U+1F479  | ogre  |
+| 👺  | U+1F47A  | goblin  |
+| 👻  | U+1F47B  | ghost  |
+| 👽  | U+1F47D  | alien  |
+| 👾  | U+1F47E  | alien monster  |
+| 🤖  | U+1F916  | robot  |
