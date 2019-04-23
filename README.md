@@ -207,3 +207,10 @@ Every emoji has emotional value and we extrapolate the following emotions from e
 | 👽  | U+1F47D  | alien  |
 | 👾  | U+1F47E  | alien monster  |
 | 🤖  | U+1F916  | robot  |
+
+### Category: Monkey Face
+| Emoji  | Unicode Value | Name |
+| ------------- | ------------- | ------------- |
+| 🙈	| U+1F648	| see-no-evil monkey  |
+| 🙉	| U+1F649	| hear-no-evil monkey  |
+| 🙊	| U+1F64A	| speak-no-evil monkey  |

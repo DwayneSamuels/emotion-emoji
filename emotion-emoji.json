@@ -1742,5 +1742,59 @@
         "sadness": "0.0",
         "fear": "0.0",
         "neutral": "1.0"
+    },
+
+    "U+1F648": {
+        "name": "see_no_evil monkey",
+        "category": "monkey_face",
+        "happiness": "0.25",
+        "joy": "0.25",
+        "love": "0.05",
+        "surprise": "0.0",
+        "anger": "0.0",
+        "disgust": "0.0",
+        "confusion": "0.0",
+        "boredom": "0.0",
+        "disappointment": "0.0",
+        "worry": "0.0",
+        "sadness": "0.0",
+        "fear": "0.45",
+        "neutral": "0.0"
+    },
+
+    "U+1F649": {
+        "name": "hear_no_evil monkey",
+        "category": "monkey_face",
+        "happiness": "0.0",
+        "joy": "0.0",
+        "love": "0.0",
+        "surprise": "0.10",
+        "anger": "0.0",
+        "disgust": "0.30",
+        "confusion": "0.20",
+        "boredom": "0.0",
+        "disappointment": "0.0",
+        "worry": "0.30",
+        "sadness": "0.0",
+        "fear": "0.10",
+        "neutral": "0.0"
+    },
+
+    "U+1F64A": {
+        "name": "speak_no_evil monkey",
+        "category": "monkey_face",
+        "happiness": "0.0",
+        "joy": "0.0",
+        "love": "0.0",
+        "surprise": "0.0",
+        "anger": "0.0",
+        "disgust": "0.0",
+        "confusion": "0.0",
+        "boredom": "0.0",
+        "disappointment": "0.0",
+        "worry": "0.0",
+        "sadness": "0.0",
+        "fear": "1.0",
+        "neutral": "0.0"
     }
 }
